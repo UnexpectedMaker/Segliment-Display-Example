@@ -1,0 +1,40 @@
+Partlist exported from /Users/seon/Dropbox/EagleCAD/projects/Siglement Display/Siglement 2018-2/Segliment_Display.sch at 11/10/18 4:24 PM
+
+Part   Value       Device                          Package               Description                                                                                                     
+C1     0.1uF       0.1UF-KIT-EZ-50V-20%            CAP-PTH-SMALL-KIT     0.1µF ceramic capacitors                                                                                        
+C2     10uF        10UF-POLAR-RADIAL-2.5MM-25V-20% CPOL-RADIAL-2.5MM-5MM 10.0µF polarized capacitors                                                                                     
+IC1    MCP23017SP2 MCP23017SP2                     DIL28-3-ROUND         hMCP23017SP2 GPIO Expander                                                   
+IO_IN              CONN_041X04_NO_SILK             1X04_NO_SILK          0.254mm 4 pin header
+IO_OUT             CONN_041X04_NO_SILK             1X04_NO_SILK          0.254mm 4 pin header
+J1                 CONN_031X03_NO_SILK             1X03_NO_SILK        	 0.254mm 3 pin header
+J2                 CONN_031X03_NO_SILK             1X03_NO_SILK          0.254mm 3 pin header
+J3                 CONN_031X03_NO_SILK             1X03_NO_SILK          0.254mm 3 pin header 
+LED                LED3MM                          LED_3MM               3mm Yellow LED                                                                                                 
+LED1   1           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED2   2           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED3   3           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED4   4           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED5   5           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED6   6           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED7   7           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED8   8           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED9   9           LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED10  10          LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED11  11          LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED12  12          LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+LED13  13          LED28-30MMRAISED                RAISED                This is a filament LED                                                                                          
+R1                 R-US_0207/7                     0207/7                100R                                                                                    
+R2                 R-US_0207/7                     0207/7                100R                                                                                   
+R3                 R-US_0207/7                     0207/7                100R                                                                                    
+R4                 R-US_0207/7                     0207/7                100R                                                                                    
+R5                 R-US_0207/7                     0207/7                100R                                                                                    
+R6                 R-US_0207/7                     0207/7                100R                                                                                    
+R7                 R-US_0207/7                     0207/7                100R                                                                                    
+R8                 R-US_0207/7                     0207/7                100R                                                                                    
+R9                 R-US_0207/7                     0207/7                100R                                                                                    
+R10                R-US_0207/7                     0207/7                100R                                                                                    
+R11                R-US_0207/7                     0207/7                100R                                                                                    
+R12                R-US_0207/7                     0207/7                100R                                                                                    
+R13                R-US_0207/7                     0207/7                100R                                                                                    
+R14                R-US_0207/7                     0207/7                220R                                                                                    
+RN                 RN05                            RN-6                  10K RESISTOR NETWORK                                                                                                
