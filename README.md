@@ -13,6 +13,20 @@ SEGLIMENT_DISPLAY_EXAMPLE - Example Arduino code
 
 Plus there is a PDF Schematic and BOM
 
+Here are some Affiliate & Non-Affiliate links to some of the parts I am using..
+
+COB LED Filaments 
+
+http://s.click.aliexpress.com/e/H0sUjrw
+
+MCP23017SP2 GPIO Port Expander
+
+https://www.aliexpress.com/item/10PCS-MCP23017-E-SP-DIP-28-MCP23017-16-Bit-I-O-Expander-with-I2C-Interface-IC/32866049803.html?spm=a2g0s.9042311.0.0.27424c4d2SrnUA
+
+10k Network Resistor
+http://s.click.aliexpress.com/e/cFmRmzUk
+
+
 Enjoy!
 
 # Buy me a coffee or back me on Patreon?
