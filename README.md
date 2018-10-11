@@ -3,9 +3,13 @@
 As promised, I have open sourced my version of the Segliment Display that I made as a joint project with David Watts
 
 The repositry includes thw following folders
+
 EAGLE - All Eagle CAD files (v9.2)
+
 GERBERS - All gerber files
+
 SEGLIMENT_DISPLAY_EXAMPLE - Example Arduino code
+
 
 Plus there is a PDF Schematic and BOM
 
